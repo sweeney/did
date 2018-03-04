@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Desert Island Discs: Archive 1951-1955</title>
+    <link>http://www.bbc.co.uk/programmes/p02p706n</link>
+    <description>Guests are invited to choose the eight records they would take to a desert island.</description>
+    <itunes:summary>Guests are invited to choose the eight records they would take to a desert island.</itunes:summary>
+    <itunes:author>BBC Radio 4</itunes:author>
+    <itunes:owner>
+      <itunes:name>BBC</itunes:name>
+      <itunes:email>RadioMusic.Support@bbc.co.uk</itunes:email>
+    </itunes:owner>
+    <itunes:new-feed-url>https://podcasts.files.bbci.co.uk/p02p706n.rss</itunes:new-feed-url>
+    <language>en</language>
+    <ppg:seriesDetails frequency="occasionally" daysLive="-1"/>
+    <ppg:systemRef systemId="pid.brand" key="p02p706n"/>
+    <ppg:systemRef systemId="pid.genre" key="C00050"/>
+    <ppg:systemRef systemId="pid.format" key="PT004"/>
+    <ppg:network id="radio4" name="BBC Radio 4"/>
+    <image>
+      <url>http://ichef.bbci.co.uk/images/ic/3000x3000/p05gylnb.jpg</url>
+      <title>Desert Island Discs: Archive 1951-1955</title>
+      <link>http://www.bbc.co.uk/programmes/p02p706n</link>
+    </image>
+    <itunes:image href="http://ichef.bbci.co.uk/images/ic/3000x3000/p05gylnb.jpg"/>
+    <copyright>(C) BBC 1955</copyright>
+    <pubDate>Tue, 07 Jun 1955 12:10:00 +0000</pubDate>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <atom:link href="http://www.bbc.co.uk/programmes/p02p706n/episodes/downloads.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Emlyn Williams</title>
+      <description>Roy Plomley's castaway is actor and playwright Emlyn Williams.
+
+Luxury: Encyclopaedia</description>
+      <itunes:subtitle>Roy Plomley's castaway is actor and playwright Emlyn Williams</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is actor and playwright Emlyn Williams.
+
+Luxury: Encyclopaedia</itunes:summary>
+      <pubDate>Tue, 07 Jun 1955 12:10:00 +0000</pubDate>
+      <itunes:duration>1146</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h1.mp3" length="18336000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h1.mp3" length="18336000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp0h1.mp3" length="18336000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida55/dida55_19550607-1310.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y9wz</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h1.mp3" fileSize="18336000" type="audio/mpeg" medium="audio" expression="full" duration="1146"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y9wz</ppg:canonical>
+    </item>
+    <item>
+      <title>Sir Malcolm Sargent</title>
+      <description>Roy Plomley's castaway is conductor Sir Malcolm Sargent.
+
+Luxury: Dog</description>
+      <itunes:subtitle>Roy Plomley's castaway is conductor Sir Malcolm Sargent</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is conductor Sir Malcolm Sargent.
+
+Luxury: Dog</itunes:summary>
+      <pubDate>Thu, 28 Apr 1955 17:30:00 +0000</pubDate>
+      <itunes:duration>1238</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h3.mp3" length="19808000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h3.mp3" length="19808000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp0h3.mp3" length="19808000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida55/dida55_19550428-1830.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y9xp</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h3.mp3" fileSize="19808000" type="audio/mpeg" medium="audio" expression="full" duration="1238"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y9xp</ppg:canonical>
+    </item>
+    <item>
+      <title>Alfredo Campoli</title>
+      <description>Roy Plomley's castaway is conductor and violinist Alfredo Campoli.
+
+Luxury: Football</description>
+      <itunes:subtitle>Roy Plomley's castaway is conductor and violinist Alfredo Campoli</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is conductor and violinist Alfredo Campoli.
+
+Luxury: Football</itunes:summary>
+      <pubDate>Fri, 21 Aug 1953 09:00:00 +0000</pubDate>
+      <itunes:duration>1309</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqdv0.mp3" length="20944000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqdv0.mp3" length="20944000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p04qqdv0.mp3" length="20944000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p009ybqn</guid>
+      <link>http://www.bbc.co.uk/programmes/p009ybqn</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqdv0.mp3" fileSize="20944000" type="audio/mpeg" medium="audio" expression="full" duration="1309"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009ybqn</ppg:canonical>
+    </item>
+    <item>
+      <title>Jimmy Edwards</title>
+      <description>Roy Plomley's castaway is comedian Jimmy Edwards.
+
+</description>
+      <itunes:subtitle>Roy Plomley's castaway is comedian Jimmy Edwards</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is comedian Jimmy Edwards.
+
+</itunes:summary>
+      <pubDate>Wed, 01 Aug 1951 17:20:00 +0000</pubDate>
+      <itunes:duration>1122</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h5.mp3" length="17952000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h5.mp3" length="17952000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp0h5.mp3" length="17952000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida55/dida55_19510801-1820.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009ycn4</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h5.mp3" fileSize="17952000" type="audio/mpeg" medium="audio" expression="full" duration="1122"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009ycn4</ppg:canonical>
+    </item>
+    <item>
+      <title>Margaret Lockwood</title>
+      <description>Roy Plomley's castaway is actress Margaret Lockwood.
+
+</description>
+      <itunes:subtitle>Roy Plomley's castaway is actress Margaret Lockwood</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is actress Margaret Lockwood.
+
+</itunes:summary>
+      <pubDate>Wed, 25 Apr 1951 17:30:00 +0000</pubDate>
+      <itunes:duration>984</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h8.mp3" length="15744000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h8.mp3" length="15744000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp0h8.mp3" length="15744000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida55/dida55_19510425-1830.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009ycqy</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp0h8.mp3" fileSize="15744000" type="audio/mpeg" medium="audio" expression="full" duration="984"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009ycqy</ppg:canonical>
+    </item>
+  </channel>
+</rss>

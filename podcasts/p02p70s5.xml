@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Desert Island Discs: Archive 1971-1975</title>
+    <link>http://www.bbc.co.uk/programmes/p02p70s5</link>
+    <description>Guests are invited to choose the eight records they would take to a desert island</description>
+    <itunes:summary>Guests are invited to choose the eight records they would take to a desert island</itunes:summary>
+    <itunes:author>BBC Radio 4</itunes:author>
+    <itunes:owner>
+      <itunes:name>BBC</itunes:name>
+      <itunes:email>RadioMusic.Support@bbc.co.uk</itunes:email>
+    </itunes:owner>
+    <itunes:new-feed-url>https://podcasts.files.bbci.co.uk/p02p70s5.rss</itunes:new-feed-url>
+    <language>en</language>
+    <ppg:seriesDetails frequency="occasionally" daysLive="-1"/>
+    <ppg:systemRef systemId="pid.brand" key="p02p70s5"/>
+    <ppg:systemRef systemId="pid.genre" key="C00050"/>
+    <ppg:systemRef systemId="pid.format" key="PT004"/>
+    <ppg:network id="radio4" name="BBC Radio 4"/>
+    <image>
+      <url>http://ichef.bbci.co.uk/images/ic/3000x3000/p05gykkl.jpg</url>
+      <title>Desert Island Discs: Archive 1971-1975</title>
+      <link>http://www.bbc.co.uk/programmes/p02p70s5</link>
+    </image>
+    <itunes:image href="http://ichef.bbci.co.uk/images/ic/3000x3000/p05gykkl.jpg"/>
+    <copyright>(C) BBC 1975</copyright>
+    <pubDate>Sat, 02 Aug 1975 18:00:00 +0000</pubDate>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <atom:link href="http://www.bbc.co.uk/programmes/p02p70s5/episodes/downloads.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>C P Snow</title>
+      <description>Roy Plomley's castaway is writer C P Snow.
+
+Favourite track: Henry IV Part II (Act 3, Scene 2) by William Shakespeare
+Book: Russian grammar
+Luxury: Writing materials</description>
+      <itunes:subtitle>Roy Plomley's castaway is writer C P Snow</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is writer C P Snow.
+
+Favourite track: Henry IV Part II (Act 3, Scene 2) by William Shakespeare
+Book: Russian grammar
+Luxury: Writing materials</itunes:summary>
+      <pubDate>Sat, 02 Aug 1975 18:00:00 +0000</pubDate>
+      <itunes:duration>1496</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp94n.mp3" length="23936000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp94n.mp3" length="23936000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp94n.mp3" length="23936000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19750802-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n6dn</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp94n.mp3" fileSize="23936000" type="audio/mpeg" medium="audio" expression="full" duration="1496"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n6dn</ppg:canonical>
+    </item>
+    <item>
+      <title>Helen Bradley</title>
+      <description>Roy Plomley's castaway is painter Helen Bradley.
+
+Favourite track: Trois Gymnopédies by Satie
+Book: A great tome on the law
+Luxury: A soap that kills mosquitoes</description>
+      <itunes:subtitle>Roy Plomley's castaway is painter Helen Bradley</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is painter Helen Bradley.
+
+Favourite track: Trois Gymnopédies by Satie
+Book: A great tome on the law
+Luxury: A soap that kills mosquitoes</itunes:summary>
+      <pubDate>Sat, 05 Jul 1975 18:00:00 +0000</pubDate>
+      <itunes:duration>1563</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp94s.mp3" length="25008000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp94s.mp3" length="25008000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp94s.mp3" length="25008000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19750705-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n6hc</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp94s.mp3" fileSize="25008000" type="audio/mpeg" medium="audio" expression="full" duration="1563"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n6hc</ppg:canonical>
+    </item>
+    <item>
+      <title>Ben Travers</title>
+      <description>Roy Plomley's castaway is farce writer  Ben Travers.
+
+Favourite track: My Love Parade by Maurice Chevalier
+Book: The collected works by Robert Browning
+Luxury: Pipes and tobacco</description>
+      <itunes:subtitle>Roy Plomley's castaway is farce writer  Ben Travers</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is farce writer  Ben Travers.
+
+Favourite track: My Love Parade by Maurice Chevalier
+Book: The collected works by Robert Browning
+Luxury: Pipes and tobacco</itunes:summary>
+      <pubDate>Sat, 10 May 1975 18:00:00 +0000</pubDate>
+      <itunes:duration>1531</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp94x.mp3" length="24496000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp94x.mp3" length="24496000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp94x.mp3" length="24496000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19750510-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n6nn</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp94x.mp3" fileSize="24496000" type="audio/mpeg" medium="audio" expression="full" duration="1531"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n6nn</ppg:canonical>
+    </item>
+    <item>
+      <title>Sir John Betjeman</title>
+      <description>Roy Plomley's castaway is Poet Laureate Sir John Betjeman.
+
+Favourite track: Ombra Mai Fù by George Frideric Handel
+Book: The Golden Treasury by Francis Palgrave
+Luxury: Champagne</description>
+      <itunes:subtitle>Roy Plomley's castaway is Poet Laureate Sir John Betjeman</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is Poet Laureate Sir John Betjeman.
+
+Favourite track: Ombra Mai Fù by George Frideric Handel
+Book: The Golden Treasury by Francis Palgrave
+Luxury: Champagne</itunes:summary>
+      <pubDate>Sat, 12 Apr 1975 18:00:00 +0000</pubDate>
+      <itunes:duration>1432</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp954.mp3" length="22912000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp954.mp3" length="22912000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp954.mp3" length="22912000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19750412-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n6r8</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp954.mp3" fileSize="22912000" type="audio/mpeg" medium="audio" expression="full" duration="1432"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n6r8</ppg:canonical>
+    </item>
+    <item>
+      <title>Emlyn Williams</title>
+      <description>Roy Plomley's castaway is actor and playwright Emlyn Williams.
+
+Favourite track: Elizabethan Serenade by Ron Goodwin and his Orchestra
+Book: Dictionary
+Luxury: Typewriter, pen, paper</description>
+      <itunes:subtitle>Roy Plomley's castaway is actor and playwright Emlyn Williams</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is actor and playwright Emlyn Williams.
+
+Favourite track: Elizabethan Serenade by Ron Goodwin and his Orchestra
+Book: Dictionary
+Luxury: Typewriter, pen, paper</itunes:summary>
+      <pubDate>Sat, 15 Feb 1975 19:00:00 +0000</pubDate>
+      <itunes:duration>1542</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp958.mp3" length="24672000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp958.mp3" length="24672000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp958.mp3" length="24672000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19750215-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n6xj</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp958.mp3" fileSize="24672000" type="audio/mpeg" medium="audio" expression="full" duration="1542"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n6xj</ppg:canonical>
+    </item>
+    <item>
+      <title>Polly James</title>
+      <description>Roy Plomley's castaway is actress Polly James.
+
+Favourite track: Your Tiny Hand is Frozen (Che gelida manina) (from La Boheme) by Giacomo Puccini
+Book: Victoria RI by Countess Elizabeth Longford
+Luxury: Group photograph of friends</description>
+      <itunes:subtitle>Roy Plomley's castaway is actress Polly James</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is actress Polly James.
+
+Favourite track: Your Tiny Hand is Frozen (Che gelida manina) (from La Boheme) by Giacomo Puccini
+Book: Victoria RI by Countess Elizabeth Longford
+Luxury: Group photograph of friends</itunes:summary>
+      <pubDate>Sat, 19 Oct 1974 18:00:00 +0000</pubDate>
+      <itunes:duration>1282</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95f.mp3" length="20512000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95f.mp3" length="20512000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp95f.mp3" length="20512000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19741019-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n79f</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95f.mp3" fileSize="20512000" type="audio/mpeg" medium="audio" expression="full" duration="1282"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n79f</ppg:canonical>
+    </item>
+    <item>
+      <title>Richard Walker</title>
+      <description>Roy Plomley's castaway is angler Richard Walker.
+
+Favourite track: Nessun Dorma by Giacomo Puccini
+Book: Puck of Pook's Hill by Rudyard Kipling
+Luxury: Benvenuto Cellini's Golden Salt Cellar</description>
+      <itunes:subtitle>Roy Plomley's castaway is angler Richard Walker</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is angler Richard Walker.
+
+Favourite track: Nessun Dorma by Giacomo Puccini
+Book: Puck of Pook's Hill by Rudyard Kipling
+Luxury: Benvenuto Cellini's Golden Salt Cellar</itunes:summary>
+      <pubDate>Sat, 06 Jul 1974 18:00:00 +0000</pubDate>
+      <itunes:duration>1353</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95l.mp3" length="21648000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95l.mp3" length="21648000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp95l.mp3" length="21648000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19740706-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n7p8</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95l.mp3" fileSize="21648000" type="audio/mpeg" medium="audio" expression="full" duration="1353"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n7p8</ppg:canonical>
+    </item>
+    <item>
+      <title>Leslie Mitchell</title>
+      <description>Roy Plomley's castaway is broadcaster Leslie Mitchell.
+
+Favourite track: Summer Night On The River by Frederick Delius
+Book: Biography of Leonardo Da Vinci
+Luxury: Silver box containing a miniature singing bird</description>
+      <itunes:subtitle>Roy Plomley's castaway is broadcaster Leslie Mitchell</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is broadcaster Leslie Mitchell.
+
+Favourite track: Summer Night On The River by Frederick Delius
+Book: Biography of Leonardo Da Vinci
+Luxury: Silver box containing a miniature singing bird</itunes:summary>
+      <pubDate>Sat, 01 Jun 1974 18:00:00 +0000</pubDate>
+      <itunes:duration>1482</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95q.mp3" length="23712000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95q.mp3" length="23712000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp95q.mp3" length="23712000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19740601-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n7st</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95q.mp3" fileSize="23712000" type="audio/mpeg" medium="audio" expression="full" duration="1482"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n7st</ppg:canonical>
+    </item>
+    <item>
+      <title>Brian Johnston</title>
+      <description>Roy Plomley's castaway is broadcaster Brian Johnston.
+
+Favourite track: Double Damask by Cicely Courtneidge &amp; Ivor McLaren
+Book: Funny Way to be a Hero by James Fisher
+Luxury: Automatic bowling machine &amp; cricket balls</description>
+      <itunes:subtitle>Roy Plomley's castaway is broadcaster Brian Johnston</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is broadcaster Brian Johnston.
+
+Favourite track: Double Damask by Cicely Courtneidge &amp; Ivor McLaren
+Book: Funny Way to be a Hero by James Fisher
+Luxury: Automatic bowling machine &amp; cricket balls</itunes:summary>
+      <pubDate>Sat, 16 Mar 1974 19:00:00 +0000</pubDate>
+      <itunes:duration>1197</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95x.mp3" length="19152000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95x.mp3" length="19152000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp95x.mp3" length="19152000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19740316-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n80y</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp95x.mp3" fileSize="19152000" type="audio/mpeg" medium="audio" expression="full" duration="1197"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n80y</ppg:canonical>
+    </item>
+    <item>
+      <title>Roy Fox</title>
+      <description>Roy Plomley's castaway is bandleader Roy Fox.
+
+Favourite track: Whispering by Roy Fox and his Orchestra
+Book: Volume of crossword puzzles
+Luxury: Radio receiver</description>
+      <itunes:subtitle>Roy Plomley's castaway is bandleader Roy Fox</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is bandleader Roy Fox.
+
+Favourite track: Whispering by Roy Fox and his Orchestra
+Book: Volume of crossword puzzles
+Luxury: Radio receiver</itunes:summary>
+      <pubDate>Sat, 16 Feb 1974 19:00:00 +0000</pubDate>
+      <itunes:duration>1427</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp962.mp3" length="22832000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp962.mp3" length="22832000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp962.mp3" length="22832000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19740216-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n833</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp962.mp3" fileSize="22832000" type="audio/mpeg" medium="audio" expression="full" duration="1427"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n833</ppg:canonical>
+    </item>
+    <item>
+      <title>Sir Terence Rattigan</title>
+      <description>Roy Plomley's castaway is playwright Sir Terence Rattigan.
+
+Favourite track: Forty Years On by Harrow School Boys
+Book: The Decline and Fall of the Roman Empire by Edward Gibbon
+Luxury: Dom Perignon Champagne</description>
+      <itunes:subtitle>Roy Plomley's castaway is playwright Sir Terence Rattigan</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is playwright Sir Terence Rattigan.
+
+Favourite track: Forty Years On by Harrow School Boys
+Book: The Decline and Fall of the Roman Empire by Edward Gibbon
+Luxury: Dom Perignon Champagne</itunes:summary>
+      <pubDate>Sat, 12 Jan 1974 19:00:00 +0000</pubDate>
+      <itunes:duration>1518</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp968.mp3" length="24288000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp968.mp3" length="24288000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp968.mp3" length="24288000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19740112-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n861</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp968.mp3" fileSize="24288000" type="audio/mpeg" medium="audio" expression="full" duration="1518"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n861</ppg:canonical>
+    </item>
+    <item>
+      <title>Dr Jacob Bronowski</title>
+      <description>Roy Plomley's castaway is scientist and broadcaster Dr Jacob Bronowski.
+
+Favourite track: Se Vuol Ballare by Wolfgang Amadeus Mozart
+Book: Volume on chess championship play
+Luxury: Antique chess set</description>
+      <itunes:subtitle>Roy Plomley's castaway is scientist and broadcaster Dr Jacob Bronowski</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is scientist and broadcaster Dr Jacob Bronowski.
+
+Favourite track: Se Vuol Ballare by Wolfgang Amadeus Mozart
+Book: Volume on chess championship play
+Luxury: Antique chess set</itunes:summary>
+      <pubDate>Sat, 05 Jan 1974 19:00:00 +0000</pubDate>
+      <itunes:duration>1497</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp96f.mp3" length="23952000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp96f.mp3" length="23952000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp96f.mp3" length="23952000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19740105-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n86l</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp96f.mp3" fileSize="23952000" type="audio/mpeg" medium="audio" expression="full" duration="1497"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n86l</ppg:canonical>
+    </item>
+    <item>
+      <title>John Mills</title>
+      <description>Roy Plomley's castaway is actor John Mills.
+
+Favourite track: Pomp and Circumstance March No. 1 in D Major by Edward Elgar
+Book: Book on zoology
+Luxury: Piano</description>
+      <itunes:subtitle>Roy Plomley's castaway is actor John Mills</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is actor John Mills.
+
+Favourite track: Pomp and Circumstance March No. 1 in D Major by Edward Elgar
+Book: Book on zoology
+Luxury: Piano</itunes:summary>
+      <pubDate>Sat, 22 Dec 1973 19:00:00 +0000</pubDate>
+      <itunes:duration>532</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02ppgly.mp3" length="8512000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02ppgly.mp3" length="8512000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02ppgly.mp3" length="8512000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p009n87s</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n87s</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02ppgly.mp3" fileSize="8512000" type="audio/mpeg" medium="audio" expression="full" duration="532"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n87s</ppg:canonical>
+    </item>
+    <item>
+      <title>Arnold Ridley</title>
+      <description>Roy Plomley's castaway is actor and playwright Arnold Ridley.
+
+Favourite track: Tannhäuser (Overture) by Richard Wagner
+Book: Bradshaw's Railway Timetable
+Luxury: Wine-making kit</description>
+      <itunes:subtitle>Roy Plomley's castaway is actor and playwright Arnold Ridley</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is actor and playwright Arnold Ridley.
+
+Favourite track: Tannhäuser (Overture) by Richard Wagner
+Book: Bradshaw's Railway Timetable
+Luxury: Wine-making kit</itunes:summary>
+      <pubDate>Sat, 03 Nov 1973 19:00:00 +0000</pubDate>
+      <itunes:duration>498</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02ppgm5.mp3" length="7968000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02ppgm5.mp3" length="7968000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02ppgm5.mp3" length="7968000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p009n8fn</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n8fn</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02ppgm5.mp3" fileSize="7968000" type="audio/mpeg" medium="audio" expression="full" duration="498"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n8fn</ppg:canonical>
+    </item>
+    <item>
+      <title>Denise Robins</title>
+      <description>Roy Plomley's castaway is romantic novelist Denise Robins.
+
+Favourite track: Die Walkure by Richard Wagner
+Book: Encyclopaedia Britannica
+Luxury: Family photograph</description>
+      <itunes:subtitle>Roy Plomley's castaway is romantic novelist Denise Robins</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is romantic novelist Denise Robins.
+
+Favourite track: Die Walkure by Richard Wagner
+Book: Encyclopaedia Britannica
+Luxury: Family photograph</itunes:summary>
+      <pubDate>Sat, 20 Jan 1973 19:00:00 +0000</pubDate>
+      <itunes:duration>1583</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp96t.mp3" length="25328000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp96t.mp3" length="25328000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp96t.mp3" length="25328000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19730120-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009n9c3</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp96t.mp3" fileSize="25328000" type="audio/mpeg" medium="audio" expression="full" duration="1583"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009n9c3</ppg:canonical>
+    </item>
+    <item>
+      <title>Beverly Sills</title>
+      <description>Roy Plomley's castaway is soprano Beverly Sills.
+
+Favourite track: Salome by Richard Strauss
+Book: Gone With the Wind by Margaret Mitchell
+Luxury: Telephone</description>
+      <itunes:subtitle>Roy Plomley's castaway is soprano Beverly Sills</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is soprano Beverly Sills.
+
+Favourite track: Salome by Richard Strauss
+Book: Gone With the Wind by Margaret Mitchell
+Luxury: Telephone</itunes:summary>
+      <pubDate>Sat, 18 Nov 1972 19:00:00 +0000</pubDate>
+      <itunes:duration>1623</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp96y.mp3" length="25968000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp96y.mp3" length="25968000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp96y.mp3" length="25968000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19721118-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009nb1w</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp96y.mp3" fileSize="25968000" type="audio/mpeg" medium="audio" expression="full" duration="1623"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009nb1w</ppg:canonical>
+    </item>
+    <item>
+      <title>Imogen Holst</title>
+      <description>Roy Plomley's castaway is conductor and musicologist Imogen Holst.
+
+Favourite track: Rondo by Henry Purcell
+Book: Reverend Francis Kilvert, Diary 1870-1879 by Rev Francis Kilvert
+Luxury: Spy-glass</description>
+      <itunes:subtitle>Roy Plomley's castaway is conductor and musicologist Imogen Holst</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is conductor and musicologist Imogen Holst.
+
+Favourite track: Rondo by Henry Purcell
+Book: Reverend Francis Kilvert, Diary 1870-1879 by Rev Francis Kilvert
+Luxury: Spy-glass</itunes:summary>
+      <pubDate>Mon, 30 Oct 1972 12:25:00 +0000</pubDate>
+      <itunes:duration>1651</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp972.mp3" length="26416000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp972.mp3" length="26416000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp972.mp3" length="26416000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19721030-1225.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009nb4w</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp972.mp3" fileSize="26416000" type="audio/mpeg" medium="audio" expression="full" duration="1651"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009nb4w</ppg:canonical>
+    </item>
+    <item>
+      <title>Edward Ardizzone</title>
+      <description>Roy Plomley's castaway is water colourist Edward Ardizzone.
+
+Favourite track: Piano Concerto No 5 In E Flat Major by Ludwig van Beethoven
+Book: The Pickwick Papers by Charles Dickens
+Luxury: Malt whisky and drawing paper</description>
+      <itunes:subtitle>Roy Plomley's castaway is water colourist Edward Ardizzone</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is water colourist Edward Ardizzone.
+
+Favourite track: Piano Concerto No 5 In E Flat Major by Ludwig van Beethoven
+Book: The Pickwick Papers by Charles Dickens
+Luxury: Malt whisky and drawing paper</itunes:summary>
+      <pubDate>Sat, 05 Aug 1972 18:00:00 +0000</pubDate>
+      <itunes:duration>1582</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp975.mp3" length="25312000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp975.mp3" length="25312000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp975.mp3" length="25312000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19720805-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009nbh4</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp975.mp3" fileSize="25312000" type="audio/mpeg" medium="audio" expression="full" duration="1582"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009nbh4</ppg:canonical>
+    </item>
+    <item>
+      <title>Sir Arthur Bliss</title>
+      <description>Roy Plomley's castaway is master of the Queen's Music Sir Arthur Bliss.
+
+Favourite track: Fair Is My Love by Arthur Bliss
+Book: The Swiss Family Robinson by Johann Wyss
+Luxury: Pair of field glasses</description>
+      <itunes:subtitle>Roy Plomley's castaway is master of the Queen's Music Sir Arthur Bliss</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is master of the Queen's Music Sir Arthur Bliss.
+
+Favourite track: Fair Is My Love by Arthur Bliss
+Book: The Swiss Family Robinson by Johann Wyss
+Luxury: Pair of field glasses</itunes:summary>
+      <pubDate>Sat, 29 Jul 1972 18:00:00 +0000</pubDate>
+      <itunes:duration>1485</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97b.mp3" length="23760000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97b.mp3" length="23760000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp97b.mp3" length="23760000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19720729-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009nbjk</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97b.mp3" fileSize="23760000" type="audio/mpeg" medium="audio" expression="full" duration="1485"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009nbjk</ppg:canonical>
+    </item>
+    <item>
+      <title>Alec Robertson</title>
+      <description>Roy Plomley's castaway is writer Alec Robertson.
+
+Favourite track: In Paradisum by Gabriel Fauré
+Book: 48 Preludes and fugues by Bach
+Luxury: Piano</description>
+      <itunes:subtitle>Roy Plomley's castaway is writer Alec Robertson</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is writer Alec Robertson.
+
+Favourite track: In Paradisum by Gabriel Fauré
+Book: 48 Preludes and fugues by Bach
+Luxury: Piano</itunes:summary>
+      <pubDate>Sat, 03 Jun 1972 18:00:00 +0000</pubDate>
+      <itunes:duration>1633</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97f.mp3" length="26128000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97f.mp3" length="26128000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp97f.mp3" length="26128000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19720603-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009nbr1</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97f.mp3" fileSize="26128000" type="audio/mpeg" medium="audio" expression="full" duration="1633"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009nbr1</ppg:canonical>
+    </item>
+    <item>
+      <title>Leonide Massine</title>
+      <description>Roy Plomley's castaway is choreographer Leonide Massine.
+
+Favourite track: I Have Attained The Highest Power by Modest Mussorgsky
+Book: The Theory of Choreography by Leonide Massine</description>
+      <itunes:subtitle>Roy Plomley's castaway is choreographer Leonide Massine</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is choreographer Leonide Massine.
+
+Favourite track: I Have Attained The Highest Power by Modest Mussorgsky
+Book: The Theory of Choreography by Leonide Massine</itunes:summary>
+      <pubDate>Sat, 22 Apr 1972 18:00:00 +0000</pubDate>
+      <itunes:duration>1682</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97k.mp3" length="26912000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97k.mp3" length="26912000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp97k.mp3" length="26912000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19720422-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009nbw4</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97k.mp3" fileSize="26912000" type="audio/mpeg" medium="audio" expression="full" duration="1682"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009nbw4</ppg:canonical>
+    </item>
+    <item>
+      <title>Isaac Stern</title>
+      <description>Roy Plomley's castaway is violinist Isaac Stern.
+
+Book: Encyclopaedia Britannica
+Luxury: Refrigerator</description>
+      <itunes:subtitle>Roy Plomley's castaway is violinist Isaac Stern</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is violinist Isaac Stern.
+
+Book: Encyclopaedia Britannica
+Luxury: Refrigerator</itunes:summary>
+      <pubDate>Sat, 08 Jan 1972 19:00:00 +0000</pubDate>
+      <itunes:duration>1630</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97n.mp3" length="26080000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97n.mp3" length="26080000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp97n.mp3" length="26080000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19720108-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009nc7k</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97n.mp3" fileSize="26080000" type="audio/mpeg" medium="audio" expression="full" duration="1630"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009nc7k</ppg:canonical>
+    </item>
+    <item>
+      <title>Artur Rubinstein</title>
+      <description>Roy Plomley's castaway is concert pianist Artur Rubinstein.
+
+Favourite track: String Quintet In C by Franz Schubert
+Book: Any one from his library
+Luxury: Revolver</description>
+      <itunes:subtitle>Roy Plomley's castaway is concert pianist Artur Rubinstein</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is concert pianist Artur Rubinstein.
+
+Favourite track: String Quintet In C by Franz Schubert
+Book: Any one from his library
+Luxury: Revolver</itunes:summary>
+      <pubDate>Sat, 28 Aug 1971 18:00:00 +0000</pubDate>
+      <itunes:duration>1522</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97r.mp3" length="24352000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97r.mp3" length="24352000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp97r.mp3" length="24352000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida75/dida75_19710828-1900.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009ncm0</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp97r.mp3" fileSize="24352000" type="audio/mpeg" medium="audio" expression="full" duration="1522"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009ncm0</ppg:canonical>
+    </item>
+    <item>
+      <title>Alan Keith</title>
+      <description>Roy Plomley's castaway is actor and broadcaster Alan Keith.
+
+Favourite track: Symphony No. 5 In C Minor by Ludwig van Beethoven
+Book: The Oxford Book of English Verse
+Luxury: Model-making tools</description>
+      <itunes:subtitle>Roy Plomley's castaway is actor and broadcaster Alan Keith</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is actor and broadcaster Alan Keith.
+
+Favourite track: Symphony No. 5 In C Minor by Ludwig van Beethoven
+Book: The Oxford Book of English Verse
+Luxury: Model-making tools</itunes:summary>
+      <pubDate>Mon, 08 Feb 1971 09:00:00 +0000</pubDate>
+      <itunes:duration>1618</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqm61.mp3" length="25888000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqm61.mp3" length="25888000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p04qqm61.mp3" length="25888000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p009nd9b</guid>
+      <link>http://www.bbc.co.uk/programmes/p009nd9b</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqm61.mp3" fileSize="25888000" type="audio/mpeg" medium="audio" expression="full" duration="1618"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009nd9b</ppg:canonical>
+    </item>
+  </channel>
+</rss>

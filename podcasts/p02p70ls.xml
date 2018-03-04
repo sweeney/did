@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Desert Island Discs: Archive 1956-1960</title>
+    <link>http://www.bbc.co.uk/programmes/p02p70ls</link>
+    <description>Guests are invited to choose the eight records they would take to a desert island.</description>
+    <itunes:summary>Guests are invited to choose the eight records they would take to a desert island.</itunes:summary>
+    <itunes:author>BBC Radio 4</itunes:author>
+    <itunes:owner>
+      <itunes:name>BBC</itunes:name>
+      <itunes:email>RadioMusic.Support@bbc.co.uk</itunes:email>
+    </itunes:owner>
+    <itunes:new-feed-url>https://podcasts.files.bbci.co.uk/p02p70ls.rss</itunes:new-feed-url>
+    <language>en</language>
+    <ppg:seriesDetails frequency="occasionally" daysLive="-1"/>
+    <ppg:systemRef systemId="pid.brand" key="p02p70ls"/>
+    <ppg:systemRef systemId="pid.genre" key="C00050"/>
+    <ppg:systemRef systemId="pid.format" key="PT004"/>
+    <ppg:network id="radio4" name="BBC Radio 4"/>
+    <image>
+      <url>http://ichef.bbci.co.uk/images/ic/3000x3000/p05gykvn.jpg</url>
+      <title>Desert Island Discs: Archive 1956-1960</title>
+      <link>http://www.bbc.co.uk/programmes/p02p70ls</link>
+    </image>
+    <itunes:image href="http://ichef.bbci.co.uk/images/ic/3000x3000/p05gykvn.jpg"/>
+    <copyright>(C) BBC 1960</copyright>
+    <pubDate>Mon, 31 Oct 1960 10:00:00 +0000</pubDate>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <atom:link href="http://www.bbc.co.uk/programmes/p02p70ls/episodes/downloads.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cliff Richard</title>
+      <description>Roy Plomley's castaway is pop singer Cliff Richard.
+
+Cliff talks about growing up in India and discovering that he had a talent for music; how it feels to leave his teenage years behind him and his intention to embark on his next movie role - a more serious part - in a thriller by Margery Allingham.  He confesses to homesickness for Britain during five weeks in America, describes how he deals with fans who want to grab a piece of him and how he came up with the name "Cliff Richard". 
+
+Favourite track: Rock Around the Clock by Bill Haley and his Comets
+Book: The Swiss Family Robinson by Johann Wyss
+Luxury: Guitar</description>
+      <itunes:subtitle>Roy Plomley's castaway is pop singer Cliff Richard</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is pop singer Cliff Richard.
+
+Cliff talks about growing up in India and discovering that he had a talent for music; how it feels to leave his teenage years behind him and his intention to embark on his next movie role - a more serious part - in a thriller by Margery Allingham.  He confesses to homesickness for Britain during five weeks in America, describes how he deals with fans who want to grab a piece of him and how he came up with the name "Cliff Richard". 
+
+Favourite track: Rock Around the Clock by Bill Haley and his Comets
+Book: The Swiss Family Robinson by Johann Wyss
+Luxury: Guitar</itunes:summary>
+      <pubDate>Mon, 31 Oct 1960 10:00:00 +0000</pubDate>
+      <itunes:duration>1223</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04r11cm.mp3" length="19568000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04r11cm.mp3" length="19568000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p04r11cm.mp3" length="19568000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p009y6z4</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y6z4</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04r11cm.mp3" fileSize="19568000" type="audio/mpeg" medium="audio" expression="full" duration="1223"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y6z4</ppg:canonical>
+    </item>
+    <item>
+      <title>Liberace</title>
+      <description>Roy Plomley's castaway is pianist Liberace.
+
+Favourite track: Rhapsody on a Theme of Paganini by Sergei Rachmaninov
+Book: The Magic of Believing by Claude M Bristol
+Luxury: Piano</description>
+      <itunes:subtitle>Roy Plomley's castaway is pianist Liberace</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is pianist Liberace.
+
+Favourite track: Rhapsody on a Theme of Paganini by Sergei Rachmaninov
+Book: The Magic of Believing by Claude M Bristol
+Luxury: Piano</itunes:summary>
+      <pubDate>Mon, 23 May 1960 12:10:00 +0000</pubDate>
+      <itunes:duration>1368</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8yv.mp3" length="21888000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8yv.mp3" length="21888000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp8yv.mp3" length="21888000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida60/dida60_19600523-1310.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y780</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8yv.mp3" fileSize="21888000" type="audio/mpeg" medium="audio" expression="full" duration="1368"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y780</ppg:canonical>
+    </item>
+    <item>
+      <title>George Thalben-Ball</title>
+      <description>Roy Plomley's castaway is organist George Thalben-Ball.
+
+Favourite track: Sea Symphony by Ralph Vaughan Williams
+Book: Three Men in a Boat by Jerome K Jerome
+Luxury: White rug</description>
+      <itunes:subtitle>Roy Plomley's castaway is organist George Thalben-Ball</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is organist George Thalben-Ball.
+
+Favourite track: Sea Symphony by Ralph Vaughan Williams
+Book: Three Men in a Boat by Jerome K Jerome
+Luxury: White rug</itunes:summary>
+      <pubDate>Mon, 26 Oct 1959 13:10:00 +0000</pubDate>
+      <itunes:duration>1389</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8z3.mp3" length="22224000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8z3.mp3" length="22224000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp8z3.mp3" length="22224000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida60/dida60_19591026-1310.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y7j7</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8z3.mp3" fileSize="22224000" type="audio/mpeg" medium="audio" expression="full" duration="1389"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y7j7</ppg:canonical>
+    </item>
+    <item>
+      <title>Charles Mackerras</title>
+      <description>Roy Plomley's castaway is conductor Charles MacKerras.
+
+Book: Foreign translation of a long English novel
+Luxury: Wine</description>
+      <itunes:subtitle>Roy Plomley's castaway is conductor Charles MacKerras</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is conductor Charles MacKerras.
+
+Book: Foreign translation of a long English novel
+Luxury: Wine</itunes:summary>
+      <pubDate>Mon, 24 Aug 1959 12:10:00 +0000</pubDate>
+      <itunes:duration>1630</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zb.mp3" length="26080000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zb.mp3" length="26080000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp8zb.mp3" length="26080000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida60/dida60_19590824-1310.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y7p2</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zb.mp3" fileSize="26080000" type="audio/mpeg" medium="audio" expression="full" duration="1630"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y7p2</ppg:canonical>
+    </item>
+    <item>
+      <title>Percy Kahn</title>
+      <description>Roy Plomley's castaway is composer Percy Kahn.
+
+Luxury: Tape recorder</description>
+      <itunes:subtitle>Roy Plomley's castaway is composer Percy Kahn</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is composer Percy Kahn.
+
+Luxury: Tape recorder</itunes:summary>
+      <pubDate>Mon, 08 Sep 1958 12:00:00 +0000</pubDate>
+      <itunes:duration>1386</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zf.mp3" length="22176000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zf.mp3" length="22176000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp8zf.mp3" length="22176000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida60/dida60_19580908-1300.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y83g</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zf.mp3" fileSize="22176000" type="audio/mpeg" medium="audio" expression="full" duration="1386"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y83g</ppg:canonical>
+    </item>
+    <item>
+      <title>Hephzibah Menuhin</title>
+      <description>Roy Plomley's castaway is concert pianist Hephzibah Menuhin.
+
+Luxury: Chinese language course</description>
+      <itunes:subtitle>Roy Plomley's castaway is concert pianist Hephzibah Menuhin</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is concert pianist Hephzibah Menuhin.
+
+Luxury: Chinese language course</itunes:summary>
+      <pubDate>Mon, 25 Aug 1958 09:00:00 +0000</pubDate>
+      <itunes:duration>1407</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqgtc.mp3" length="22512000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqgtc.mp3" length="22512000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p04qqgtc.mp3" length="22512000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p009y841</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y841</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqgtc.mp3" fileSize="22512000" type="audio/mpeg" medium="audio" expression="full" duration="1407"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y841</ppg:canonical>
+    </item>
+    <item>
+      <title>Agnes Nicholls</title>
+      <description>Roy Plomley's castaway is soprano Agnes Nicholls.
+
+Book: Illustrated dictionary
+Luxury: Perfume</description>
+      <itunes:subtitle>Roy Plomley's castaway is soprano Agnes Nicholls</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is soprano Agnes Nicholls.
+
+Book: Illustrated dictionary
+Luxury: Perfume</itunes:summary>
+      <pubDate>Mon, 19 May 1958 09:00:00 +0000</pubDate>
+      <itunes:duration>1383</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqct2.mp3" length="22128000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqct2.mp3" length="22128000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p04qqct2.mp3" length="22128000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p009y893</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y893</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qqct2.mp3" fileSize="22128000" type="audio/mpeg" medium="audio" expression="full" duration="1383"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y893</ppg:canonical>
+    </item>
+    <item>
+      <title>Roy Plomley</title>
+      <description>Eamonn Andrews's castaway is broadcaster Roy Plomley.
+
+Book: Who's Who in the Theatre
+Luxury: Desk with a typewriter and paper</description>
+      <itunes:subtitle>Eamonn Andrews's castaway is broadcaster Roy Plomley</itunes:subtitle>
+      <itunes:summary>Eamonn Andrews's castaway is broadcaster Roy Plomley.
+
+Book: Who's Who in the Theatre
+Luxury: Desk with a typewriter and paper</itunes:summary>
+      <pubDate>Mon, 12 May 1958 09:00:00 +0000</pubDate>
+      <itunes:duration>1568</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qn00s.mp3" length="25088000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qn00s.mp3" length="25088000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p04qn00s.mp3" length="25088000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p009y898</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y898</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p04qn00s.mp3" fileSize="25088000" type="audio/mpeg" medium="audio" expression="full" duration="1568"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y898</ppg:canonical>
+    </item>
+    <item>
+      <title>Ben Lyon</title>
+      <description>Roy Plomley's castaway is comedian Ben Lyon.
+
+Luxury: Film projector and films of family</description>
+      <itunes:subtitle>Roy Plomley's castaway is comedian Ben Lyon</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is comedian Ben Lyon.
+
+Luxury: Film projector and films of family</itunes:summary>
+      <pubDate>Mon, 17 Feb 1958 13:10:00 +0000</pubDate>
+      <itunes:duration>1160</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zj.mp3" length="18560000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zj.mp3" length="18560000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp8zj.mp3" length="18560000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida60/dida60_19580217-1310.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y8g0</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zj.mp3" fileSize="18560000" type="audio/mpeg" medium="audio" expression="full" duration="1160"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y8g0</ppg:canonical>
+    </item>
+    <item>
+      <title>Bransby Williams</title>
+      <description>Roy Plomley's castaway is actor Bransby Williams.
+
+Luxury: Paper and pencils</description>
+      <itunes:subtitle>Roy Plomley's castaway is actor Bransby Williams</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is actor Bransby Williams.
+
+Luxury: Paper and pencils</itunes:summary>
+      <pubDate>Mon, 04 Nov 1957 13:10:00 +0000</pubDate>
+      <itunes:duration>1539</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zp.mp3" length="24624000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zp.mp3" length="24624000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp8zp.mp3" length="24624000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida60/dida60_19571104-1310.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y8n8</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zp.mp3" fileSize="24624000" type="audio/mpeg" medium="audio" expression="full" duration="1539"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y8n8</ppg:canonical>
+    </item>
+    <item>
+      <title>Bebe Daniels</title>
+      <description>Roy Plomley's castaway is actress Bebe Daniels.
+
+Luxury: Typewriter and paper</description>
+      <itunes:subtitle>Roy Plomley's castaway is actress Bebe Daniels</itunes:subtitle>
+      <itunes:summary>Roy Plomley's castaway is actress Bebe Daniels.
+
+Luxury: Typewriter and paper</itunes:summary>
+      <pubDate>Mon, 02 Apr 1956 13:10:00 +0000</pubDate>
+      <itunes:duration>1155</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zt.mp3" length="18480000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zt.mp3" length="18480000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p02pp8zt.mp3" length="18480000" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/dida60/dida60_19560402-1310.mp3</guid>
+      <link>http://www.bbc.co.uk/programmes/p009y9gr</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p02pp8zt.mp3" fileSize="18480000" type="audio/mpeg" medium="audio" expression="full" duration="1155"/>
+      <itunes:author>BBC Radio 4</itunes:author>
+      <ppg:canonical>/programmes/p009y9gr</ppg:canonical>
+    </item>
+  </channel>
+</rss>
